@@ -1,0 +1,15 @@
+{
+  "name": "doit/DashButtonGoesShowpare",
+  "description": "Dash-Button Integration for Shopware",
+  "minimum-stability": "dev",
+  "license": "none",
+  "authors": [
+    {
+      "name": "Moritz Jung",
+      "email": "moritz.jung@outlook.de"
+    }
+  ],
+  "require": {
+    "shopware/shopware": "5.4.x-dev"
+  }
+}
